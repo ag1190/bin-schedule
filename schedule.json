@@ -5,6 +5,174 @@
   "updated": "2026-07-23",
   "collections": [
     {
+      "date": "2025-10-03",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2025-10-10",
+      "type": "BLACK"
+    },
+    {
+      "date": "2025-10-17",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2025-10-24",
+      "type": "BLACK"
+    },
+    {
+      "date": "2025-10-31",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2025-11-07",
+      "type": "BLACK"
+    },
+    {
+      "date": "2025-11-14",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2025-11-21",
+      "type": "BLACK"
+    },
+    {
+      "date": "2025-11-28",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2025-12-05",
+      "type": "BLACK"
+    },
+    {
+      "date": "2025-12-12",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2025-12-19",
+      "type": "BLACK"
+    },
+    {
+      "date": "2025-12-28",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-01-02",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-01-09",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-01-16",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-01-23",
+      "type": "BROWN_ONLY"
+    },
+    {
+      "date": "2026-01-30",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-02-06",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-02-13",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-02-20",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-02-27",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-03-06",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-03-13",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-03-20",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-03-27",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-04-03",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-04-10",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-04-17",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-04-24",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-05-01",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-05-08",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-05-15",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-05-22",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-05-29",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-06-12",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-06-19",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-06-26",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-07-10",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-07-17",
+      "type": "BLACK"
+    },
+    {
       "date": "2026-07-24",
       "type": "GREEN_AND_BROWN"
     },
@@ -15,6 +183,34 @@
     {
       "date": "2026-08-07",
       "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-08-14",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-08-28",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-09-04",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-09-11",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-09-18",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-09-25",
+      "type": "BLACK"
     }
   ]
 }
