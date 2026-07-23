@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "schedule": "Friday A",
+  "timezone": "Europe/London",
+  "updated": "2026-07-23",
+  "collections": [
+    {
+      "date": "2026-07-24",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-07-31",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-08-07",
+      "type": "GREEN_AND_BROWN"
+    }
+  ]
+}
