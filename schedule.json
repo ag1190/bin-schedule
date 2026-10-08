@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "schedule": "Friday A",
   "timezone": "Europe/London",
-  "updated": "2026-07-23",
+  "updated": "2026-10-08",
   "collections": [
     {
       "date": "2025-10-03",
@@ -211,6 +211,58 @@
     {
       "date": "2026-09-25",
       "type": "BLACK"
+    },
+    {
+      "date": "2026-10-02",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-10-09",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-10-16",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-10-23",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-10-30",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-11-06",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-12-04",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-12-11",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2026-12-18",
+      "type": "BLACK"
+    },
+    {
+      "date": "2026-12-25",
+      "type": "GREEN_AND_BROWN"
     }
   ]
 }
