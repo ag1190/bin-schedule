@@ -261,8 +261,164 @@
       "type": "BLACK"
     },
     {
-      "date": "2026-12-25",
+      "date": "2026-12-27",
       "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-01-02",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-01-08",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-01-15",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-01-22",
+      "type": "BROWN_ONLY"
+    },
+    {
+      "date": "2027-01-29",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-02-05",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-02-12",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-02-19",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-02-26",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-03-05",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-03-12",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-03-19",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-03-26",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-04-02",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-04-09",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-04-16",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-04-23",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-04-30",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-05-07",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-05-14",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-05-21",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-05-28",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-06-04",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-06-11",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-06-18",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-06-25",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-07-02",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-07-09",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-07-16",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-07-23",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-07-30",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-08-06",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-08-13",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-08-20",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-08-27",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-09-03",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-09-10",
+      "type": "BLACK"
+    },
+    {
+      "date": "2027-09-17",
+      "type": "GREEN_AND_BROWN"
+    },
+    {
+      "date": "2027-09-24",
+      "type": "BLACK"
     }
   ]
 }
